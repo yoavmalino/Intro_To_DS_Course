@@ -5,7 +5,7 @@ End-to-end data analysis and unsupervised clustering pipeline on the London Bike
 ## Folder Structure
 
 ```text
-EDA_K-means_Implementation/
+EDA_And_K-means_Implementation/
 ├── README.md
 ├── main.py          # Orchestrates Part A (EDA) and Part B (K-Means)
 ├── data.py          # Data loading, feature engineering, and statistical analysis
