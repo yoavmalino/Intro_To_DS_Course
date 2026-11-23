@@ -8,12 +8,12 @@ This repository contains end-to-end data science pipelines and core machine lear
 intro-to-data-science/
 ├── README.md
 ├── env.yml
-├── EDA_K-means_Implementation/
+├── EDA_And_K-means_Implementation/
 │   ├── README.md
 │   ├── main.py
 │   ├── data.py
 │   └── clustering.py
-└── KNN_Implementation_and_Evaluation/
+└── KNN_Implementation_And_Evaluation/
     ├── README.md
     ├── main.py
     ├── data.py
